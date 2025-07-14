@@ -18,7 +18,7 @@ The project is a simple weather application that displays the current weather co
 
 
 ## Installation
-1. Clone the repository: `git clone
+1. Clone the repository: `git clone 'https://github.com/okutuzova/weather-app'`
 2. Navigate to the project directory: `cd weather-app`
 3. Run the application: `docker-compose up --build`
 4. Open in browser `http://localhost:8080`

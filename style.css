@@ -1,0 +1,40 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to bottom, #a1c4fd, #c2e9fb);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 960px;
+    min-height: 500px; 
+    margin: 2rem;
+    padding: 2rem;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  h1 {
+    margin-bottom: 1rem;
+  }
+  
+  .current-temp {
+    font-size: 1.4rem;
+    margin-bottom: 2rem;
+  }
+  
+  canvas {
+    max-width: 100%;
+    
+  }
+  
